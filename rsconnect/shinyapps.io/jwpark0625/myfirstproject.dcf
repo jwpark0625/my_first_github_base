@@ -1,0 +1,14 @@
+name: myfirstproject
+title: myfirstproject
+username:
+account: jwpark0625
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5713915
+bundleId: 5607657
+url: https://jwpark0625.shinyapps.io/myfirstproject/
+when: 1645578620.07143
+lastSyncTime: 1645578620.07143
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|gapminder.jpg|homework1.R|HW_result.pdf|LICENSE|myCode.R|myCode_day2.R|myfigure.jpg|myfigure.png|README.md|shiny_day2.R|shiny_ex.R|subwayfee.csv

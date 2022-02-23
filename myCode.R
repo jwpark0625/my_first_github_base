@@ -115,6 +115,7 @@ p + geom_bar(show.legend = F, width = 1) +
   theme(aspect.ratio = 1) +
   coord_polar()
 
+
 world <- map_data("world")
 ggplot(world, aes(long, lat, group = group)) +
   geom_polygon(fill = "lightyellow", color = "blue")
@@ -122,3 +123,4 @@ ggplot(world, aes(long, lat, group = group)) +
 nz <- map_data("nz")
 ggplot(world, aes(long, lat, group = group)) +
   geom_polygon(fill = "orange", color = "tomato")
+
